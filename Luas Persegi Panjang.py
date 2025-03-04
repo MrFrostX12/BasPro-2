@@ -3,4 +3,4 @@ Lebar = int(input("Masukkan Lebar : "))
 
 Hasil = Panjang * Lebar
 
-print(Hasil)
+print(f"Hasilnya Adalah = {Hasil:.2f}")
