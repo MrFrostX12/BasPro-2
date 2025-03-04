@@ -3,4 +3,4 @@ Tinggi = int(input("Masukkan Panjang Tinggi : "))
 
 Hasil = 0.5 * Alas * Tinggi
 
-print(Hasil)
+print(f"Hasilnya Adalah = {Hasil:.2f}")
